@@ -1,0 +1,4 @@
+{
+  "name": "BiohackDA_Medical_Env",
+  "postCreateCommand": "pip install -r requirements.txt"
+}
